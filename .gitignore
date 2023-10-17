@@ -1,0 +1,5 @@
+/model/*.pth
+/log/*.log
+/movie/*.gif
+test.ipynb
+work.ipynb
